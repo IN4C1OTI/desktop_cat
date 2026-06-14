@@ -1,6 +1,6 @@
 # 🐱 Desktop Cat — Green Hacker Edition
 
-Um gato virtual travesso que vive na sua área de trabalho, inspirado no Desktop Goose e no visual hacker do Watch Dogs 2.
+Um gato virtual travesso que vive na sua área de trabalho, inspirado no Desktop Goose.
 
 ![Python](https://img.shields.io/badge/Feito%20em-Python%203-blue)
 ![Platform](https://img.shields.io/badge/Plataforma-Windows-red)
