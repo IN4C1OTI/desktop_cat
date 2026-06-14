@@ -1,0 +1,30 @@
+# Build artifacts
+build/
+__pycache__/
+*.pyc
+*.pyo
+*.spec
+
+# PyInstaller output (so nao commitamos o .exe, so o source)
+dist/DesktopCat.exe
+dist/desktop_cat_dedsec.exe
+dist/desktop_cat.exe
+
+# Python env
+.venv/
+venv/
+env/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# OS
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# Logs e temporarios
+*.log
+*.tmp
